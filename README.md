@@ -6,6 +6,7 @@
  * Support selectors for lemmas (font and font - size)
 
 Used Library WpfColorFont: https://github.com/sskodje/WpfColorFont/
+
 Used library DocX by Xceed: https://github.com/xceedsoftware/DocX
 
 <----------------------------------------------------------------------------------------------------------------------------------------------------->
